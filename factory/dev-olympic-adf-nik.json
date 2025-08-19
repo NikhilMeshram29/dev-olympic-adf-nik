@@ -1,0 +1,9 @@
+{
+	"name": "dev-olympic-adf-nik",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7498814a-4039-4ce7-8736-176dfdd17b8f",
+		"tenantId": "15e21a06-cae4-4e6a-b9a0-6e927a9bc8f3"
+	}
+}
